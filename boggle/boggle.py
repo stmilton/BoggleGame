@@ -10,9 +10,7 @@ dict_lst = []
 
 
 def main():
-	"""
-	TODO:
-	"""
+	
 	read_dictionary()
 	lst = []
 	word_lst = []
