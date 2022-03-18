@@ -1,9 +1,3 @@
-"""
-File: boggle.py
-Name:
-----------------------------------------
-TODO:
-"""
 
 # This is the file name of the dictionary txt file
 # we will be checking if a word exists by searching through it
