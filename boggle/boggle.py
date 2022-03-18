@@ -1,4 +1,4 @@
-
+# 阿昭
 # This is the file name of the dictionary txt file
 # we will be checking if a word exists by searching through it
 from typing import List
@@ -10,9 +10,7 @@ dict_lst = []
 
 
 def main():
-	"""
-	TODO:
-	"""
+	
 	read_dictionary()
 	lst = []
 	word_lst = []
@@ -104,3 +102,5 @@ def has_prefix(sub_s):
 
 if __name__ == '__main__':
 	main()
+
+
